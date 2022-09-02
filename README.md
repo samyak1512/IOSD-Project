@@ -1,4 +1,5 @@
 <h1>IOSD ML Project</h1></br>
+<b><i><u> <h3>PLease visit the notebooks in kaggle if outputs of cells are not showing in Github</b></i></u></br></h3>
 I am Samyak Jain and this is my submission for ML project of IOSD Junior Council.</br>
 I have implemented the SVM kernel from Sci-Kit learn library.</br>
 I have also implemented a pytorch network as a binary classifier.</br>
